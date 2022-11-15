@@ -1,14 +1,15 @@
 {
   "title": "Aeriy's hosts and clones",
+  "baseUrl": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/",
   "avatars": [
     {
       "id": 1,
       "name": "Cyber Rave Aeriy",
-      "profilePicture": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "./test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
@@ -21,15 +22,15 @@
     {
       "id": 2,
       "name": "Lingeraeriy",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/other.webm",
+          "src": "other.webm",
           "isVisible": true
         }
       ],
@@ -38,11 +39,11 @@
     {
       "id": 3,
       "name": "Goth Aeriy",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "./test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
@@ -55,15 +56,15 @@
     {
       "id": 4,
       "name": "Huntress",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/other.webm",
+          "src": "other.webm",
           "isVisible": true
         }
       ],
@@ -72,11 +73,11 @@
     {
       "id": 5,
       "name": "Puppaeriy",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "./test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
@@ -89,15 +90,15 @@
     {
       "id": 6,
       "name": "Classic Aeriy",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/other.webm",
+          "src": "other.webm",
           "isVisible": true
         }
       ],
@@ -106,11 +107,11 @@
     {
       "id": 7,
       "name": "Ringmistress",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "./test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
@@ -123,15 +124,15 @@
     {
       "id": 8,
       "name": "Teddy",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/other.webm",
+          "src": "other.webm",
           "isVisible": true
         }
       ],
@@ -140,11 +141,11 @@
     {
       "id": 9,
       "name": "Galaxy Eyes",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "./test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
@@ -157,15 +158,15 @@
     {
       "id": 10,
       "name": "Belle",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/other.webm",
+          "src": "other.webm",
           "isVisible": true
         }
       ],
@@ -174,11 +175,11 @@
     {
       "id": 11,
       "name": "Crack Aeriy",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "./test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
@@ -191,15 +192,15 @@
     {
       "id": 12,
       "name": "Delilah",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/other.webm",
+          "src": "other.webm",
           "isVisible": true
         }
       ],
@@ -208,15 +209,15 @@
     {
       "id": 13,
       "name": "Smolder",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/other.webm",
+          "src": "other.webm",
           "isVisible": true
         }
       ],
@@ -225,15 +226,15 @@
     {
       "id": 14,
       "name": "Chinchilla Girl",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/other.webm",
+          "src": "other.webm",
           "isVisible": true
         }
       ],
@@ -242,15 +243,15 @@
     {
       "id": 15,
       "name": "Canaeriy",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/other.webm",
+          "src": "other.webm",
           "isVisible": true
         }
       ],
@@ -259,15 +260,15 @@
     {
       "id": 16,
       "name": "Holly",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/other.webm",
+          "src": "other.webm",
           "isVisible": true
         }
       ],
@@ -276,15 +277,15 @@
     {
       "id": 17,
       "name": "Professor",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/other.webm",
+          "src": "other.webm",
           "isVisible": true
         }
       ],
@@ -293,15 +294,15 @@
     {
       "id": 18,
       "name": "Gucci Aeriy",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/other.webm",
+          "src": "other.webm",
           "isVisible": true
         }
       ],
@@ -310,15 +311,15 @@
     {
       "id": 19,
       "name": "Deer Aeriy",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/other.webm",
+          "src": "other.webm",
           "isVisible": true
         }
       ],
@@ -327,15 +328,15 @@
     {
       "id": 20,
       "name": "Audery/Luna",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/other.webm",
+          "src": "other.webm",
           "isVisible": true
         }
       ],
@@ -344,15 +345,15 @@
     {
       "id": 21,
       "name": "Comfy Aeriy",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/other.webm",
+          "src": "other.webm",
           "isVisible": true
         }
       ],
@@ -361,15 +362,15 @@
     {
       "id": 22,
       "name": "Schoolgirl Aeriy",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/other.webm",
+          "src": "other.webm",
           "isVisible": true
         }
       ],
@@ -378,15 +379,15 @@
     {
       "id": 23,
       "name": "Raptor Aeriy",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/other.webm",
+          "src": "other.webm",
           "isVisible": true
         }
       ],
@@ -395,15 +396,15 @@
     {
       "id": 24,
       "name": "Blep",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/other.webm",
+          "src": "other.webm",
           "isVisible": true
         }
       ],
@@ -412,15 +413,15 @@
     {
       "id": 25,
       "name": "Nurse Aeriy",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/other.webm",
+          "src": "other.webm",
           "isVisible": true
         }
       ],
@@ -429,15 +430,15 @@
     {
       "id": 26,
       "name": "Blue Eye White Catgirl",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/other.webm",
+          "src": "other.webm",
           "isVisible": true
         }
       ],
@@ -446,15 +447,15 @@
     {
       "id": 27,
       "name": "Ballroom Aeriy",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/other.webm",
+          "src": "other.webm",
           "isVisible": true
         }
       ],
@@ -463,15 +464,15 @@
     {
       "id": 28,
       "name": "Button",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/other.webm",
+          "src": "other.webm",
           "isVisible": true
         }
       ],
@@ -480,15 +481,15 @@
     {
       "id": 29,
       "name": "Maid Aeriy",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/other.webm",
+          "src": "other.webm",
           "isVisible": true
         }
       ],
@@ -497,15 +498,15 @@
     {
       "id": 30,
       "name": "JRPG Aeriy",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/other.webm",
+          "src": "other.webm",
           "isVisible": true
         }
       ],
@@ -514,15 +515,15 @@
     {
       "id": 31,
       "name": "Aeriy Raptor (Dino)",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/other.webm",
+          "src": "other.webm",
           "isVisible": true
         }
       ],
@@ -531,15 +532,15 @@
     {
       "id": 32,
       "name": "Furry",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/other.webm",
+          "src": "other.webm",
           "isVisible": true
         }
       ],
@@ -548,15 +549,15 @@
     {
       "id": 33,
       "name": "Muppet Aeriy",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/other.webm",
+          "src": "other.webm",
           "isVisible": true
         }
       ],
@@ -565,15 +566,15 @@
     {
       "id": 34,
       "name": "Fake Goth",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/other.webm",
+          "src": "other.webm",
           "isVisible": true
         }
       ],
@@ -582,15 +583,15 @@
     {
       "id": 35,
       "name": "Butt Veil",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/other.webm",
+          "src": "other.webm",
           "isVisible": true
         }
       ],
@@ -599,15 +600,15 @@
     {
       "id": 36,
       "name": "White Quest (Koi shirt)",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/other.webm",
+          "src": "other.webm",
           "isVisible": true
         }
       ],
@@ -616,15 +617,15 @@
     {
       "id": 37,
       "name": "Angel",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/other.webm",
+          "src": "other.webm",
           "isVisible": true
         }
       ],
@@ -633,15 +634,15 @@
     {
       "id": 38,
       "name": "Aeroy",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/other.webm",
+          "src": "other.webm",
           "isVisible": true
         }
       ],
@@ -650,15 +651,15 @@
     {
       "id": 39,
       "name": "Vaporeon",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/other.webm",
+          "src": "other.webm",
           "isVisible": true
         }
       ],
@@ -667,15 +668,15 @@
     {
       "id": 40,
       "name": "Santa Aeriy",
-      "profilePicture": "./17.png",
+      "profilePicture": "17.png",
       "isVisible": true,
       "videos": [
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/test.webm",
+          "src": "test.webm",
           "isVisible": true
         },
         {
-          "src": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/other.webm",
+          "src": "other.webm",
           "isVisible": true
         }
       ],
