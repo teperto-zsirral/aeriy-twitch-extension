@@ -1,11 +1,11 @@
 {
   "title": "Aeriy's hosts and clones",
-  "baseUrl": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/",
+  "baseUrl": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/120373130/",
   "avatars": [
     {
       "id": 1,
       "name": "Cyber Rave Aeriy",
-      "profilePicture": "120373130/cyber/cyber_pfp.png",
+      "profilePicture": "cyber/cyber_pfp.png",
       "isVisible": true,
       "videos": [
         {
@@ -39,7 +39,7 @@
     {
       "id": 3,
       "name": "Goth Aeriy",
-      "profilePicture": "17.png",
+      "profilePicture": "goth/goth_pfp.png",
       "isVisible": true,
       "videos": [
         {
@@ -90,7 +90,7 @@
     {
       "id": 6,
       "name": "Classic Aeriy",
-      "profilePicture": "120373130/classic/classic_pfp.png",
+      "profilePicture": "classic/classic_pfp.png",
       "isVisible": true,
       "videos": [
         {
@@ -124,7 +124,7 @@
     {
       "id": 8,
       "name": "Teddy",
-      "profilePicture": "120373130/teddy/teddy_pfp.png",
+      "profilePicture": "teddy/teddy_pfp.png",
       "isVisible": true,
       "videos": [
         {
