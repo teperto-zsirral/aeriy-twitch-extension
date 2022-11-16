@@ -5,7 +5,7 @@
     {
       "id": 1,
       "name": "Cyber Rave Aeriy",
-      "profilePicture": "120373130/cyber/cyber_profile.png",
+      "profilePicture": "120373130/cyber/cyber_pfp.png",
       "isVisible": true,
       "videos": [
         {
@@ -90,7 +90,7 @@
     {
       "id": 6,
       "name": "Classic Aeriy",
-      "profilePicture": "120373130/classic/classic_profile.png",
+      "profilePicture": "120373130/classic/classic_pfp.png",
       "isVisible": true,
       "videos": [
         {
@@ -124,7 +124,7 @@
     {
       "id": 8,
       "name": "Teddy",
-      "profilePicture": "17.png",
+      "profilePicture": "120373130/teddy/teddy_pfp.png",
       "isVisible": true,
       "videos": [
         {
