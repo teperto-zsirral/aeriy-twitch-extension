@@ -120,7 +120,7 @@
     {
       "id": 7,
       "name": "Ringmistress",
-      "profilePicture": "17.png",
+      "profilePicture": "ringmistress/ringmistress_pfp.png",
       "isVisible": true,
       "videos": [
         {
@@ -155,7 +155,7 @@
       "id": 9,
       "name": "Galaxy Eyes",
       "profilePicture": "17.png",
-      "isVisible": true,
+      "isVisible": false,
       "videos": [
         {
           "src": "test.webm",
@@ -172,7 +172,7 @@
       "id": 10,
       "name": "Belle",
       "profilePicture": "17.png",
-      "isVisible": true,
+      "isVisible": false,
       "videos": [
         {
           "src": "test.webm",
@@ -206,7 +206,7 @@
       "id": 12,
       "name": "Delilah",
       "profilePicture": "17.png",
-      "isVisible": true,
+      "isVisible": false,
       "videos": [
         {
           "src": "test.webm",
@@ -223,7 +223,7 @@
       "id": 13,
       "name": "Smolder",
       "profilePicture": "17.png",
-      "isVisible": true,
+      "isVisible": false,
       "videos": [
         {
           "src": "test.webm",
@@ -240,7 +240,7 @@
       "id": 14,
       "name": "Chinchilla Girl",
       "profilePicture": "17.png",
-      "isVisible": true,
+      "isVisible": false,
       "videos": [
         {
           "src": "test.webm",
@@ -257,7 +257,7 @@
       "id": 15,
       "name": "Canaeriy",
       "profilePicture": "17.png",
-      "isVisible": true,
+      "isVisible": false,
       "videos": [
         {
           "src": "test.webm",
@@ -291,7 +291,7 @@
       "id": 17,
       "name": "Professor",
       "profilePicture": "17.png",
-      "isVisible": true,
+      "isVisible": false,
       "videos": [
         {
           "src": "test.webm",
@@ -325,7 +325,7 @@
       "id": 19,
       "name": "Deer Aeriy",
       "profilePicture": "17.png",
-      "isVisible": true,
+      "isVisible": false,
       "videos": [
         {
           "src": "test.webm",
@@ -342,7 +342,7 @@
       "id": 20,
       "name": "Audery/Luna",
       "profilePicture": "17.png",
-      "isVisible": true,
+      "isVisible": false,
       "videos": [
         {
           "src": "test.webm",
@@ -376,7 +376,7 @@
       "id": 22,
       "name": "Schoolgirl Aeriy",
       "profilePicture": "17.png",
-      "isVisible": true,
+      "isVisible": false,
       "videos": [
         {
           "src": "test.webm",
@@ -393,7 +393,7 @@
       "id": 23,
       "name": "Raptor Aeriy",
       "profilePicture": "17.png",
-      "isVisible": true,
+      "isVisible": false,
       "videos": [
         {
           "src": "test.webm",
@@ -410,7 +410,7 @@
       "id": 24,
       "name": "Blep",
       "profilePicture": "17.png",
-      "isVisible": true,
+      "isVisible": false,
       "videos": [
         {
           "src": "test.webm",
@@ -427,7 +427,7 @@
       "id": 25,
       "name": "Nurse Aeriy",
       "profilePicture": "17.png",
-      "isVisible": true,
+      "isVisible": false,
       "videos": [
         {
           "src": "test.webm",
@@ -444,7 +444,7 @@
       "id": 26,
       "name": "Blue Eye White Catgirl",
       "profilePicture": "17.png",
-      "isVisible": true,
+      "isVisible": false,
       "videos": [
         {
           "src": "test.webm",
@@ -461,7 +461,7 @@
       "id": 27,
       "name": "Ballroom Aeriy",
       "profilePicture": "17.png",
-      "isVisible": true,
+      "isVisible": false,
       "videos": [
         {
           "src": "test.webm",
@@ -478,7 +478,7 @@
       "id": 28,
       "name": "Button",
       "profilePicture": "17.png",
-      "isVisible": true,
+      "isVisible": false,
       "videos": [
         {
           "src": "test.webm",
@@ -495,7 +495,7 @@
       "id": 29,
       "name": "Maid Aeriy",
       "profilePicture": "17.png",
-      "isVisible": true,
+      "isVisible": false,
       "videos": [
         {
           "src": "test.webm",
@@ -512,7 +512,7 @@
       "id": 30,
       "name": "JRPG Aeriy",
       "profilePicture": "17.png",
-      "isVisible": true,
+      "isVisible": false,
       "videos": [
         {
           "src": "test.webm",
@@ -529,7 +529,7 @@
       "id": 31,
       "name": "Aeriy Raptor (Dino)",
       "profilePicture": "17.png",
-      "isVisible": true,
+      "isVisible": false,
       "videos": [
         {
           "src": "test.webm",
@@ -546,7 +546,7 @@
       "id": 32,
       "name": "Furry",
       "profilePicture": "17.png",
-      "isVisible": true,
+      "isVisible": false,
       "videos": [
         {
           "src": "test.webm",
@@ -580,7 +580,7 @@
       "id": 34,
       "name": "Fake Goth",
       "profilePicture": "17.png",
-      "isVisible": true,
+      "isVisible": false,
       "videos": [
         {
           "src": "test.webm",
@@ -597,7 +597,7 @@
       "id": 35,
       "name": "Butt Veil",
       "profilePicture": "17.png",
-      "isVisible": true,
+      "isVisible": false,
       "videos": [
         {
           "src": "test.webm",
@@ -614,7 +614,7 @@
       "id": 36,
       "name": "White Quest (Koi shirt)",
       "profilePicture": "17.png",
-      "isVisible": true,
+      "isVisible": false,
       "videos": [
         {
           "src": "test.webm",
@@ -631,7 +631,7 @@
       "id": 37,
       "name": "Angel",
       "profilePicture": "17.png",
-      "isVisible": true,
+      "isVisible": false,
       "videos": [
         {
           "src": "test.webm",
@@ -648,7 +648,7 @@
       "id": 38,
       "name": "Aeroy",
       "profilePicture": "17.png",
-      "isVisible": true,
+      "isVisible": false,
       "videos": [
         {
           "src": "test.webm",
@@ -665,7 +665,7 @@
       "id": 39,
       "name": "Vaporeon",
       "profilePicture": "17.png",
-      "isVisible": true,
+      "isVisible": false,
       "videos": [
         {
           "src": "test.webm",
@@ -682,7 +682,7 @@
       "id": 40,
       "name": "Santa Aeriy",
       "profilePicture": "17.png",
-      "isVisible": true,
+      "isVisible": false,
       "videos": [
         {
           "src": "test.webm",
