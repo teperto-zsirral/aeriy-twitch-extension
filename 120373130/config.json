@@ -290,7 +290,7 @@
     {
       "id": 17,
       "name": "Professor",
-      "profilePicture": "17.png",
+      "profilePicture": "professor/professor_pfp.png",
       "isVisible": false,
       "videos": [
         {
@@ -359,7 +359,7 @@
       "id": 21,
       "name": "Comfy Aeriy",
       "profilePicture": "17.png",
-      "isVisible": true,
+      "isVisible": false,
       "videos": [
         {
           "src": "test.webm",
@@ -682,7 +682,7 @@
       "id": 40,
       "name": "Santa Aeriy",
       "profilePicture": "17.png",
-      "isVisible": false,
+      "isVisible": true,
       "videos": [
         {
           "src": "test.webm",
