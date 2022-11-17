@@ -60,7 +60,11 @@
       "isVisible": true,
       "videos": [
         {
-          "src": "test.webm",
+          "src": "hailey/bounce2.webm",
+          "isVisible": true
+        },
+        {
+          "src": "hailey/dance.webm",
           "isVisible": true
         }
       ],
