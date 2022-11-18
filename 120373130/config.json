@@ -1,5 +1,5 @@
 {
-  "title": "Aeriy's hosts and clones",
+  "title": "Aeriy's avatars",
   "baseUrl": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/120373130/",
   "avatars": [
     {
@@ -13,15 +13,15 @@
           "isVisible": true
         },
         {
+          "src": "cyber/keys.webm",
+          "isVisible": true
+        },
+        {
           "src": "cyber/heat.webm",
           "isVisible": true
         },
         {
           "src": "cyber/jammies.webm",
-          "isVisible": true
-        },
-        {
-          "src": "cyber/keys.webm",
           "isVisible": true
         }
       ],
@@ -55,11 +55,11 @@
           "isVisible": true
         },
         {
-          "src": "goth/cuddle1.webm",
+          "src": "goth/dance.webm",
           "isVisible": true
         },
         {
-          "src": "goth/dance.webm",
+          "src": "goth/cuddle1.webm",
           "isVisible": true
         }
       ],
@@ -123,11 +123,11 @@
       "isVisible": true,
       "videos": [
         {
-          "src": "classic/beach.webm",
+          "src": "classic/wave.webm",
           "isVisible": true
         },
         {
-          "src": "classic/wave.webm",
+          "src": "classic/beach.webm",
           "isVisible": true
         },
         {
