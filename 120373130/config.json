@@ -9,11 +9,19 @@
       "isVisible": true,
       "videos": [
         {
-          "src": "test.webm",
+          "src": "cyber/cuddle.webm",
           "isVisible": true
         },
         {
-          "src": "",
+          "src": "cyber/heat.webm",
+          "isVisible": true
+        },
+        {
+          "src": "cyber/jammies.webm",
+          "isVisible": true
+        },
+        {
+          "src": "cyber/keys.webm",
           "isVisible": true
         }
       ],
@@ -26,11 +34,11 @@
       "isVisible": true,
       "videos": [
         {
-          "src": "test.webm",
+          "src": "lingeraeriy/hello.webm",
           "isVisible": true
         },
         {
-          "src": "other.webm",
+          "src": "lingeraeriy/charybdis.webm",
           "isVisible": true
         }
       ],
@@ -43,11 +51,15 @@
       "isVisible": true,
       "videos": [
         {
-          "src": "test.webm",
+          "src": "goth/heart.webm",
           "isVisible": true
         },
         {
-          "src": "",
+          "src": "goth/cuddle1.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/dance.webm",
           "isVisible": true
         }
       ],
@@ -74,7 +86,7 @@
       "id": 4,
       "name": "Huntress",
       "profilePicture": "huntress/huntress_pfp.png",
-      "isVisible": true,
+      "isVisible": false,
       "videos": [
         {
           "src": "test.webm",
@@ -94,11 +106,11 @@
       "isVisible": true,
       "videos": [
         {
-          "src": "test.webm",
+          "src": "puppaeriy/toofar.webm",
           "isVisible": true
         },
         {
-          "src": "",
+          "src": "puppaeriy/moldy.webm",
           "isVisible": true
         }
       ],
@@ -111,11 +123,19 @@
       "isVisible": true,
       "videos": [
         {
-          "src": "test.webm",
+          "src": "classic/beach.webm",
           "isVisible": true
         },
         {
-          "src": "other.webm",
+          "src": "classic/wave.webm",
+          "isVisible": true
+        },
+        {
+          "src": "classic/kiss.webm",
+          "isVisible": true
+        },
+        {
+          "src": "classic/molt.webm",
           "isVisible": true
         }
       ],
@@ -128,11 +148,15 @@
       "isVisible": true,
       "videos": [
         {
-          "src": "test.webm",
+          "src": "ringmistress/colorchange.webm",
           "isVisible": true
         },
         {
-          "src": "",
+          "src": "ringmistress/hat.webm",
+          "isVisible": true
+        },
+        {
+          "src": "ringmistress/eat.webm",
           "isVisible": true
         }
       ],
@@ -145,11 +169,31 @@
       "isVisible": true,
       "videos": [
         {
-          "src": "test.webm",
+          "src": "teddy/stripes.webm",
           "isVisible": true
         },
         {
-          "src": "other.webm",
+          "src": "teddy/beans2.webm",
+          "isVisible": true
+        },
+        {
+          "src": "teddy/cozydance.webm",
+          "isVisible": true
+        },
+        {
+          "src": "teddy/orb.webm",
+          "isVisible": true
+        },
+        {
+          "src": "teddy/dance.webm",
+          "isVisible": true
+        },
+        {
+          "src": "teddy/kick.webm",
+          "isVisible": true
+        },
+        {
+          "src": "teddy/beans.webm",
           "isVisible": true
         }
       ],
@@ -298,11 +342,15 @@
       "isVisible": true,
       "videos": [
         {
-          "src": "test.webm",
+          "src": "professor/lesson.webm",
           "isVisible": true
         },
         {
-          "src": "other.webm",
+          "src": "professor/spin.webm",
+          "isVisible": true
+        },
+        {
+          "src": "professor/jammies.webm",
           "isVisible": true
         }
       ],
@@ -315,11 +363,7 @@
       "isVisible": true,
       "videos": [
         {
-          "src": "test.webm",
-          "isVisible": true
-        },
-        {
-          "src": "other.webm",
+          "src": "gucci/goodgirl.webm",
           "isVisible": true
         }
       ],
@@ -570,11 +614,7 @@
       "isVisible": true,
       "videos": [
         {
-          "src": "test.webm",
-          "isVisible": true
-        },
-        {
-          "src": "other.webm",
+          "src": "muppet/dance.webm",
           "isVisible": true
         }
       ],
