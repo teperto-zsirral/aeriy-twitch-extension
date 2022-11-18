@@ -193,7 +193,7 @@
       "id": 11,
       "name": "Crack Aeriy",
       "profilePicture": "crack/crack_pfp.png",
-      "isVisible": true,
+      "isVisible": false,
       "videos": [
         {
           "src": "test.webm",
@@ -278,7 +278,7 @@
       "id": 16,
       "name": "Holly",
       "profilePicture": "holly/holly_pfp.png",
-      "isVisible": true,
+      "isVisible": false,
       "videos": [
         {
           "src": "test.webm",
