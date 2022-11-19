@@ -59,6 +59,10 @@
           "isVisible": true
         },
         {
+          "src": "goth/highpov.webm",
+          "isVisible": true
+        },
+        {
           "src": "goth/dance.webm",
           "isVisible": true
         },
@@ -76,6 +80,14 @@
       "isVisible": true,
       "videos": [
         {
+          "src": "hailey/grass.webm",
+          "isVisible": true
+        },
+        {
+          "src": "hailey/slowmo.webm",
+          "isVisible": true
+        },
+        {
           "src": "hailey/bounce2.webm",
           "isVisible": true
         },
@@ -90,18 +102,18 @@
       "id": 4,
       "name": "Huntress",
       "profilePicture": "huntress/huntress_pfp.png",
-      "isVisible": false,
+      "isVisible": true,
       "videos": [
         {
-          "src": "test.webm",
+          "src": "huntress/punish.webm",
           "isVisible": true
         },
         {
-          "src": "other.webm",
+          "src": "huntress/heels.webm",
           "isVisible": true
         }
       ],
-      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+      "comment": "Perfect aim"
     },
     {
       "id": 5,
@@ -223,19 +235,19 @@
     {
       "id": 10,
       "name": "Belle",
-      "profilePicture": "17.png",
-      "isVisible": false,
+      "profilePicture": "belle/belle_pfp.png",
+      "isVisible": true,
       "videos": [
         {
-          "src": "test.webm",
+          "src": "belle/introduction.webm",
           "isVisible": true
         },
         {
-          "src": "other.webm",
+          "src": "belle/dance.webm",
           "isVisible": true
         }
       ],
-      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+      "comment": "Mooo"
     },
     {
       "id": 11,
@@ -257,36 +269,44 @@
     {
       "id": 12,
       "name": "Delilah",
-      "profilePicture": "17.png",
-      "isVisible": false,
+      "profilePicture": "delilah/delilah_pfp.png",
+      "isVisible": true,
       "videos": [
         {
-          "src": "test.webm",
+          "src": "delilah/cut.webm",
           "isVisible": true
         },
         {
-          "src": "other.webm",
+          "src": "delilah/dance2.webm",
+          "isVisible": true
+        },
+        {
+          "src": "delilah/dance.webm",
           "isVisible": true
         }
       ],
-      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+      "comment": "Beards watch out!"
     },
     {
       "id": 13,
       "name": "Smolder",
-      "profilePicture": "17.png",
-      "isVisible": false,
+      "profilePicture": "smolder/smolder_pfp.png",
+      "isVisible": true,
       "videos": [
         {
-          "src": "test.webm",
+          "src": "smolder/dance.webm",
           "isVisible": true
         },
         {
-          "src": "other.webm",
+          "src": "smolder/glow.webm",
+          "isVisible": true
+        },
+        {
+          "src": "smolder/lick.webm",
           "isVisible": true
         }
       ],
-      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+      "comment": ""
     },
     {
       "id": 14,
@@ -367,6 +387,14 @@
       "isVisible": true,
       "videos": [
         {
+          "src": "gucci/invis.webm",
+          "isVisible": true
+        },
+        {
+          "src": "gucci/fluffy.webm",
+          "isVisible": true
+        },
+        {
           "src": "gucci/goodgirl.webm",
           "isVisible": true
         }
@@ -427,36 +455,40 @@
     {
       "id": 22,
       "name": "Schoolgirl Aeriy",
-      "profilePicture": "17.png",
-      "isVisible": false,
+      "profilePicture": "schoolgirl/schoolgirl_pfp.png",
+      "isVisible": true,
       "videos": [
         {
-          "src": "test.webm",
+          "src": "schoolgirl/pat.webm",
           "isVisible": true
         },
         {
-          "src": "other.webm",
+          "src": "schoolgirl/cute2.webm",
+          "isVisible": true
+        },
+        {
+          "src": "schoolgirl/cute.webm",
           "isVisible": true
         }
       ],
-      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+      "comment": "First teacher"
     },
     {
       "id": 23,
       "name": "Raptor Aeriy",
-      "profilePicture": "17.png",
-      "isVisible": false,
+      "profilePicture": "raptaeriy/raptaeriy_pfp.png",
+      "isVisible": true,
       "videos": [
         {
-          "src": "test.webm",
+          "src": "raptaeriy/mask.webm",
           "isVisible": true
         },
         {
-          "src": "other.webm",
+          "src": "raptaeriy/jump.webm",
           "isVisible": true
         }
       ],
-      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+      "comment": "Best legs"
     },
     {
       "id": 24,
@@ -478,19 +510,27 @@
     {
       "id": 25,
       "name": "Nurse Aeriy",
-      "profilePicture": "17.png",
-      "isVisible": false,
+      "profilePicture": "nurse/nurse_pfp.png",
+      "isVisible": true,
       "videos": [
         {
-          "src": "test.webm",
+          "src": "nurse/finger.webm",
           "isVisible": true
         },
         {
-          "src": "other.webm",
+          "src": "nurse/injection.webm",
+          "isVisible": true
+        },
+        {
+          "src": "nurse/spin.webm",
+          "isVisible": true
+        },
+        {
+          "src": "nurse/headbang.webm",
           "isVisible": true
         }
       ],
-      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+      "comment": "Afraid of needles"
     },
     {
       "id": 26,
@@ -546,19 +586,19 @@
     {
       "id": 29,
       "name": "Maid Aeriy",
-      "profilePicture": "17.png",
-      "isVisible": false,
+      "profilePicture": "maid/maid_pfp.png",
+      "isVisible": true,
       "videos": [
         {
-          "src": "test.webm",
+          "src": "maid/pawing.webm",
           "isVisible": true
         },
         {
-          "src": "other.webm",
+          "src": "maid/clones.webm",
           "isVisible": true
         }
       ],
-      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+      "comment": "Long time favorite"
     },
     {
       "id": 30,
@@ -580,19 +620,23 @@
     {
       "id": 31,
       "name": "Aeriy Raptor (Dino)",
-      "profilePicture": "17.png",
-      "isVisible": false,
+      "profilePicture": "raptor/raptor_pfp.png",
+      "isVisible": true,
       "videos": [
         {
-          "src": "test.webm",
+          "src": "raptor/shuffle.webm",
           "isVisible": true
         },
         {
-          "src": "other.webm",
+          "src": "raptor/hug.webm",
+          "isVisible": true
+        },
+        {
+          "src": "raptor/kiss.webm",
           "isVisible": true
         }
       ],
-      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+      "comment": "rawr"
     },
     {
       "id": 32,
