@@ -5,7 +5,7 @@
     {
       "id": 1,
       "name": "Cyber Rave Aeriy",
-      "profilePicture": "cyber/cyber_pfp.png",
+      "profilePicture": "cyber/cyber_pfp2.png",
       "isVisible": true,
       "videos": [
         {
@@ -30,7 +30,7 @@
     {
       "id": 2,
       "name": "Lingeraeriy",
-      "profilePicture": "lingeraeriy/lingeraeriy_pfp.png",
+      "profilePicture": "lingeraeriy/lingeraeriy_pfp5.png",
       "isVisible": true,
       "videos": [
         {
@@ -51,7 +51,7 @@
     {
       "id": 3,
       "name": "Goth Aeriy",
-      "profilePicture": "goth/goth_pfp.png",
+      "profilePicture": "goth/goth_pfp12.png",
       "isVisible": true,
       "videos": [
         {
@@ -269,7 +269,7 @@
     {
       "id": 12,
       "name": "Delilah",
-      "profilePicture": "delilah/delilah_pfp.png",
+      "profilePicture": "delilah/delilah_pfp3.png",
       "isVisible": true,
       "videos": [
         {
@@ -362,7 +362,7 @@
     {
       "id": 17,
       "name": "Professor",
-      "profilePicture": "professor/professor_pfp.png",
+      "profilePicture": "professor/professor_pfp3.png",
       "isVisible": true,
       "videos": [
         {
