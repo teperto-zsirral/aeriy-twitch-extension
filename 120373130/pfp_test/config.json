@@ -1,0 +1,1390 @@
+{
+  "title": "Aeriy's avatars",
+  "baseUrl": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/120373130/",
+  "avatars": [
+    {
+      "id": 1,
+      "name": "Cyber Rave Aeriy",
+      "profilePicture": "cyber/cyber_pfp.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "cyber/cuddle.webm",
+          "isVisible": true
+        },
+        {
+          "src": "cyber/keys.webm",
+          "isVisible": true
+        },
+        {
+          "src": "cyber/heat.webm",
+          "isVisible": true
+        },
+        {
+          "src": "cyber/jammies.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- current champion\n- best kitten\n- best toy\n- please leave a product review"
+    },
+    {
+      "id": 2,
+      "name": "Lingeraeriy",
+      "profilePicture": "lingeraeriy/lingeraeriy_pfp.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "lingeraeriy/hello.webm",
+          "isVisible": true
+        },
+        {
+          "src": "lingeraeriy/charybdis.webm",
+          "isVisible": true
+        },
+        {
+          "src": "lingeraeriy/heelheadpats.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- past cuddle champion\n- best girl"
+    },
+    {
+      "id": 200,
+      "name": "Lingeraeriy",
+      "profilePicture": "lingeraeriy/lingeraeriy_pfp2.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "lingeraeriy/hello.webm",
+          "isVisible": true
+        },
+        {
+          "src": "lingeraeriy/charybdis.webm",
+          "isVisible": true
+        },
+        {
+          "src": "lingeraeriy/heelheadpats.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- past cuddle champion\n- best girl"
+    },
+    {
+      "id": 201,
+      "name": "Lingeraeriy",
+      "profilePicture": "lingeraeriy/lingeraeriy_pfp3.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "lingeraeriy/hello.webm",
+          "isVisible": true
+        },
+        {
+          "src": "lingeraeriy/charybdis.webm",
+          "isVisible": true
+        },
+        {
+          "src": "lingeraeriy/heelheadpats.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- past cuddle champion\n- best girl"
+    },
+    {
+      "id": 202,
+      "name": "Lingeraeriy",
+      "profilePicture": "lingeraeriy/lingeraeriy_pfp4.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "lingeraeriy/hello.webm",
+          "isVisible": true
+        },
+        {
+          "src": "lingeraeriy/charybdis.webm",
+          "isVisible": true
+        },
+        {
+          "src": "lingeraeriy/heelheadpats.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- past cuddle champion\n- best girl"
+    },
+    {
+      "id": 3,
+      "name": "Goth Aeriy",
+      "profilePicture": "goth/goth_pfp.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "goth/heart.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/highpov.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/dance.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/cuddle1.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- very touchy\n- shy dancer"
+    },
+    {
+      "id": 300,
+      "name": "Goth Aeriy",
+      "profilePicture": "goth/goth_pfp2.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "goth/heart.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/highpov.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/dance.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/cuddle1.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- very touchy\n- shy dancer"
+    },
+    {
+      "id": 301,
+      "name": "Goth Aeriy",
+      "profilePicture": "goth/goth_pfp3.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "goth/heart.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/highpov.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/dance.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/cuddle1.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- very touchy\n- shy dancer"
+    },
+    {
+      "id": 41,
+      "name": "Hailey",
+      "profilePicture": "hailey/hailey_pfp.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "hailey/grass.webm",
+          "isVisible": true
+        },
+        {
+          "src": "hailey/slowmo.webm",
+          "isVisible": true
+        },
+        {
+          "src": "hailey/bounce2.webm",
+          "isVisible": true
+        },
+        {
+          "src": "hailey/dance.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- full of energy\n- shinyest eyes"
+    },
+    {
+      "id": 4100,
+      "name": "Hailey",
+      "profilePicture": "hailey/hailey_pfp2.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "hailey/grass.webm",
+          "isVisible": true
+        },
+        {
+          "src": "hailey/slowmo.webm",
+          "isVisible": true
+        },
+        {
+          "src": "hailey/bounce2.webm",
+          "isVisible": true
+        },
+        {
+          "src": "hailey/dance.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- full of energy\n- shinyest eyes"
+    },
+    {
+      "id": 4,
+      "name": "Huntress",
+      "profilePicture": "huntress/huntress_pfp.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "huntress/punish.webm",
+          "isVisible": true
+        },
+        {
+          "src": "huntress/heels.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "Perfect aim"
+    },
+    {
+      "id": 5,
+      "name": "Puppaeriy",
+      "profilePicture": "puppaeriy/puppaeriy_pfp2.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "puppaeriy/toofar.webm",
+          "isVisible": true
+        },
+        {
+          "src": "puppaeriy/moldy.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- favorite?\n- wholesome\n- she's a pup, she's cat, she's a pupcat"
+    },
+    {
+      "id": 500,
+      "name": "Puppaeriy",
+      "profilePicture": "puppaeriy/puppaeriy_pfp.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "puppaeriy/toofar.webm",
+          "isVisible": true
+        },
+        {
+          "src": "puppaeriy/moldy.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- favorite?\n- wholesome\n- she's a pup, she's cat, she's a pupcat"
+    },
+    {
+      "id": 501,
+      "name": "Puppaeriy",
+      "profilePicture": "puppaeriy/puppaeriy_pfp3.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "puppaeriy/toofar.webm",
+          "isVisible": true
+        },
+        {
+          "src": "puppaeriy/moldy.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- favorite?\n- wholesome\n- she's a pup, she's cat, she's a pupcat"
+    },
+    {
+      "id": 502,
+      "name": "Puppaeriy",
+      "profilePicture": "puppaeriy/puppaeriy_pfp4.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "puppaeriy/toofar.webm",
+          "isVisible": true
+        },
+        {
+          "src": "puppaeriy/moldy.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- favorite?\n- wholesome\n- she's a pup, she's cat, she's a pupcat"
+    },
+    {
+      "id": 6,
+      "name": "Classic Aeriy",
+      "profilePicture": "classic/classic_pfp.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "classic/wave.webm",
+          "isVisible": true
+        },
+        {
+          "src": "classic/beach.webm",
+          "isVisible": true
+        },
+        {
+          "src": "classic/kiss.webm",
+          "isVisible": true
+        },
+        {
+          "src": "classic/molt.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- the original\n- OSC available\n- she can do it all"
+    },
+    {
+      "id": 600,
+      "name": "Classic Aeriy",
+      "profilePicture": "classic/classic_pfp2.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "classic/wave.webm",
+          "isVisible": true
+        },
+        {
+          "src": "classic/beach.webm",
+          "isVisible": true
+        },
+        {
+          "src": "classic/kiss.webm",
+          "isVisible": true
+        },
+        {
+          "src": "classic/molt.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- the original\n- OSC available\n- she can do it all"
+    },
+    {
+      "id": 601,
+      "name": "Classic Aeriy",
+      "profilePicture": "classic/classic_pfp3.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "classic/wave.webm",
+          "isVisible": true
+        },
+        {
+          "src": "classic/beach.webm",
+          "isVisible": true
+        },
+        {
+          "src": "classic/kiss.webm",
+          "isVisible": true
+        },
+        {
+          "src": "classic/molt.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- the original\n- OSC available\n- she can do it all"
+    },
+    {
+      "id": 602,
+      "name": "Classic Aeriy",
+      "profilePicture": "classic/classic_pfp4.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "classic/wave.webm",
+          "isVisible": true
+        },
+        {
+          "src": "classic/beach.webm",
+          "isVisible": true
+        },
+        {
+          "src": "classic/kiss.webm",
+          "isVisible": true
+        },
+        {
+          "src": "classic/molt.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- the original\n- OSC available\n- she can do it all"
+    },
+    {
+      "id": 603,
+      "name": "Classic Aeriy",
+      "profilePicture": "classic/classic_pfp5.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "classic/wave.webm",
+          "isVisible": true
+        },
+        {
+          "src": "classic/beach.webm",
+          "isVisible": true
+        },
+        {
+          "src": "classic/kiss.webm",
+          "isVisible": true
+        },
+        {
+          "src": "classic/molt.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- the original\n- OSC available\n- she can do it all"
+    },
+    {
+      "id": 604,
+      "name": "Classic Aeriy",
+      "profilePicture": "classic/classic_pfp6.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "classic/wave.webm",
+          "isVisible": true
+        },
+        {
+          "src": "classic/beach.webm",
+          "isVisible": true
+        },
+        {
+          "src": "classic/kiss.webm",
+          "isVisible": true
+        },
+        {
+          "src": "classic/molt.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- the original\n- OSC available\n- she can do it all"
+    },
+    {
+      "id": 7,
+      "name": "Ringmistress",
+      "profilePicture": "ringmistress/ringmistress_pfp.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "ringmistress/colorchange.webm",
+          "isVisible": true
+        },
+        {
+          "src": "ringmistress/hat.webm",
+          "isVisible": true
+        },
+        {
+          "src": "ringmistress/eat.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- holds the greates shows\n- the hat stays on ;)"
+    },
+    {
+      "id": 700,
+      "name": "Ringmistress",
+      "profilePicture": "ringmistress/ringmistress_pfp2.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "ringmistress/colorchange.webm",
+          "isVisible": true
+        },
+        {
+          "src": "ringmistress/hat.webm",
+          "isVisible": true
+        },
+        {
+          "src": "ringmistress/eat.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- holds the greates shows\n- the hat stays on ;)"
+    },
+    {
+      "id": 8,
+      "name": "Teddy",
+      "profilePicture": "teddy/teddy_pfp3.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "teddy/stripes.webm",
+          "isVisible": true
+        },
+        {
+          "src": "teddy/beans2.webm",
+          "isVisible": true
+        },
+        {
+          "src": "teddy/cozydance.webm",
+          "isVisible": true
+        },
+        {
+          "src": "teddy/orb.webm",
+          "isVisible": true
+        },
+        {
+          "src": "teddy/dance.webm",
+          "isVisible": true
+        },
+        {
+          "src": "teddy/kick.webm",
+          "isVisible": true
+        },
+        {
+          "src": "teddy/beans.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- tedyd\n - goth who?\n- definitely in the top 9"
+    },
+    {
+      "id": 800,
+      "name": "Teddy",
+      "profilePicture": "teddy/teddy_pfp2.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "teddy/stripes.webm",
+          "isVisible": true
+        },
+        {
+          "src": "teddy/beans2.webm",
+          "isVisible": true
+        },
+        {
+          "src": "teddy/cozydance.webm",
+          "isVisible": true
+        },
+        {
+          "src": "teddy/orb.webm",
+          "isVisible": true
+        },
+        {
+          "src": "teddy/dance.webm",
+          "isVisible": true
+        },
+        {
+          "src": "teddy/kick.webm",
+          "isVisible": true
+        },
+        {
+          "src": "teddy/beans.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- tedyd\n - goth who?\n- definitely in the top 9"
+    },
+    {
+      "id": 9,
+      "name": "Galaxy Eyes",
+      "profilePicture": "17.png",
+      "isVisible": false,
+      "videos": [
+        {
+          "src": "test.webm",
+          "isVisible": true
+        },
+        {
+          "src": "",
+          "isVisible": true
+        }
+      ],
+      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+    },
+    {
+      "id": 10,
+      "name": "Belle",
+      "profilePicture": "belle/belle_pfp.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "belle/introduction.webm",
+          "isVisible": true
+        },
+        {
+          "src": "belle/dance.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "Mooo"
+    },
+    {
+      "id": 11,
+      "name": "Crack Aeriy",
+      "profilePicture": "crack/crack_pfp.png",
+      "isVisible": false,
+      "videos": [
+        {
+          "src": "test.webm",
+          "isVisible": true
+        },
+        {
+          "src": "",
+          "isVisible": true
+        }
+      ],
+      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+    },
+    {
+      "id": 12,
+      "name": "Delilah",
+      "profilePicture": "delilah/delilah_pfp.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "delilah/cut.webm",
+          "isVisible": true
+        },
+        {
+          "src": "delilah/dance2.webm",
+          "isVisible": true
+        },
+        {
+          "src": "delilah/dance.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "Beards watch out!"
+    },
+    {
+      "id": 1200,
+      "name": "Delilah",
+      "profilePicture": "delilah/delilah_pfp2.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "delilah/cut.webm",
+          "isVisible": true
+        },
+        {
+          "src": "delilah/dance2.webm",
+          "isVisible": true
+        },
+        {
+          "src": "delilah/dance.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "Beards watch out!"
+    },
+    {
+      "id": 13,
+      "name": "Smolder",
+      "profilePicture": "smolder/smolder_pfp.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "smolder/dance.webm",
+          "isVisible": true
+        },
+        {
+          "src": "smolder/glow.webm",
+          "isVisible": true
+        },
+        {
+          "src": "smolder/lick.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": ""
+    },
+    {
+      "id": 1300,
+      "name": "Smolder",
+      "profilePicture": "smolder/smolder_pfp2.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "smolder/dance.webm",
+          "isVisible": true
+        },
+        {
+          "src": "smolder/glow.webm",
+          "isVisible": true
+        },
+        {
+          "src": "smolder/lick.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": ""
+    },
+    {
+      "id": 14,
+      "name": "Chinchilla Girl",
+      "profilePicture": "chinchilla/chinchilla_pfp.png",
+      "isVisible": false,
+      "videos": [
+        {
+          "src": "test.webm",
+          "isVisible": true
+        },
+        {
+          "src": "other.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+    },
+    {
+      "id": 15,
+      "name": "Canaeriy",
+      "profilePicture": "17.png",
+      "isVisible": false,
+      "videos": [
+        {
+          "src": "test.webm",
+          "isVisible": true
+        },
+        {
+          "src": "other.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+    },
+    {
+      "id": 16,
+      "name": "Holly",
+      "profilePicture": "holly/holly_pfp.png",
+      "isVisible": false,
+      "videos": [
+        {
+          "src": "test.webm",
+          "isVisible": true
+        },
+        {
+          "src": "other.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+    },
+    {
+      "id": 17,
+      "name": "Professor",
+      "profilePicture": "professor/professor_pfp.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "professor/lesson.webm",
+          "isVisible": true
+        },
+        {
+          "src": "professor/spin.webm",
+          "isVisible": true
+        },
+        {
+          "src": "professor/jammies.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- rescued\n- biology, philosphy, classics, warhammer, mtg\n- you will pay attention!"
+    },
+    {
+      "id": 1700,
+      "name": "Professor",
+      "profilePicture": "professor/professor_pfp2.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "professor/lesson.webm",
+          "isVisible": true
+        },
+        {
+          "src": "professor/spin.webm",
+          "isVisible": true
+        },
+        {
+          "src": "professor/jammies.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- rescued\n- biology, philosphy, classics, warhammer, mtg\n- you will pay attention!"
+    },
+    {
+      "id": 18,
+      "name": "Gucci Aeriy",
+      "profilePicture": "gucci/gucci_pfp.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "gucci/invis.webm",
+          "isVisible": true
+        },
+        {
+          "src": "gucci/fluffy.webm",
+          "isVisible": true
+        },
+        {
+          "src": "gucci/goodgirl.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": ""
+    },
+    {
+      "id": 1800,
+      "name": "Gucci Aeriy",
+      "profilePicture": "gucci/gucci_pfp2.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "gucci/invis.webm",
+          "isVisible": true
+        },
+        {
+          "src": "gucci/fluffy.webm",
+          "isVisible": true
+        },
+        {
+          "src": "gucci/goodgirl.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": ""
+    },
+    {
+      "id": 1801,
+      "name": "Gucci Aeriy",
+      "profilePicture": "gucci/gucci_pfp3.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "gucci/invis.webm",
+          "isVisible": true
+        },
+        {
+          "src": "gucci/fluffy.webm",
+          "isVisible": true
+        },
+        {
+          "src": "gucci/goodgirl.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": ""
+    },
+    {
+      "id": 19,
+      "name": "Deer Aeriy",
+      "profilePicture": "17.png",
+      "isVisible": false,
+      "videos": [
+        {
+          "src": "test.webm",
+          "isVisible": true
+        },
+        {
+          "src": "other.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+    },
+    {
+      "id": 20,
+      "name": "Audery/Luna",
+      "profilePicture": "17.png",
+      "isVisible": false,
+      "videos": [
+        {
+          "src": "test.webm",
+          "isVisible": true
+        },
+        {
+          "src": "other.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+    },
+    {
+      "id": 21,
+      "name": "Comfy Aeriy",
+      "profilePicture": "17.png",
+      "isVisible": false,
+      "videos": [
+        {
+          "src": "test.webm",
+          "isVisible": true
+        },
+        {
+          "src": "other.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+    },
+    {
+      "id": 22,
+      "name": "Schoolgirl Aeriy",
+      "profilePicture": "schoolgirl/schoolgirl_pfp.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "schoolgirl/pat.webm",
+          "isVisible": true
+        },
+        {
+          "src": "schoolgirl/cute2.webm",
+          "isVisible": true
+        },
+        {
+          "src": "schoolgirl/cute.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "First teacher"
+    },
+    {
+      "id": 23,
+      "name": "Raptor Aeriy",
+      "profilePicture": "raptaeriy/raptaeriy_pfp.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "raptaeriy/mask.webm",
+          "isVisible": true
+        },
+        {
+          "src": "raptaeriy/jump.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "Best legs"
+    },
+    {
+      "id": 24,
+      "name": "Blep",
+      "profilePicture": "17.png",
+      "isVisible": false,
+      "videos": [
+        {
+          "src": "test.webm",
+          "isVisible": true
+        },
+        {
+          "src": "other.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+    },
+    {
+      "id": 25,
+      "name": "Nurse Aeriy",
+      "profilePicture": "nurse/nurse_pfp.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "nurse/finger.webm",
+          "isVisible": true
+        },
+        {
+          "src": "nurse/injection.webm",
+          "isVisible": true
+        },
+        {
+          "src": "nurse/spin.webm",
+          "isVisible": true
+        },
+        {
+          "src": "nurse/headbang.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "Afraid of needles"
+    },
+    {
+      "id": 2500,
+      "name": "Nurse Aeriy",
+      "profilePicture": "nurse/nurse_pfp2.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "nurse/finger.webm",
+          "isVisible": true
+        },
+        {
+          "src": "nurse/injection.webm",
+          "isVisible": true
+        },
+        {
+          "src": "nurse/spin.webm",
+          "isVisible": true
+        },
+        {
+          "src": "nurse/headbang.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "Afraid of needles"
+    },
+    {
+      "id": 2501,
+      "name": "Nurse Aeriy",
+      "profilePicture": "nurse/nurse_pfp3.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "nurse/finger.webm",
+          "isVisible": true
+        },
+        {
+          "src": "nurse/injection.webm",
+          "isVisible": true
+        },
+        {
+          "src": "nurse/spin.webm",
+          "isVisible": true
+        },
+        {
+          "src": "nurse/headbang.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "Afraid of needles"
+    },
+    {
+      "id": 2502,
+      "name": "Nurse Aeriy",
+      "profilePicture": "nurse/nurse_pfp4.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "nurse/finger.webm",
+          "isVisible": true
+        },
+        {
+          "src": "nurse/injection.webm",
+          "isVisible": true
+        },
+        {
+          "src": "nurse/spin.webm",
+          "isVisible": true
+        },
+        {
+          "src": "nurse/headbang.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "Afraid of needles"
+    },
+    {
+      "id": 26,
+      "name": "Blue Eye White Catgirl",
+      "profilePicture": "17.png",
+      "isVisible": false,
+      "videos": [
+        {
+          "src": "test.webm",
+          "isVisible": true
+        },
+        {
+          "src": "other.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+    },
+    {
+      "id": 27,
+      "name": "Ballroom Aeriy",
+      "profilePicture": "17.png",
+      "isVisible": false,
+      "videos": [
+        {
+          "src": "test.webm",
+          "isVisible": true
+        },
+        {
+          "src": "other.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+    },
+    {
+      "id": 28,
+      "name": "Button",
+      "profilePicture": "17.png",
+      "isVisible": false,
+      "videos": [
+        {
+          "src": "test.webm",
+          "isVisible": true
+        },
+        {
+          "src": "other.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+    },
+    {
+      "id": 29,
+      "name": "Maid Aeriy",
+      "profilePicture": "maid/maid_pfp.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "maid/pawing.webm",
+          "isVisible": true
+        },
+        {
+          "src": "maid/clones.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "Long time favorite"
+    },
+    {
+      "id": 2900,
+      "name": "Maid Aeriy",
+      "profilePicture": "maid/maid_pfp2.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "maid/pawing.webm",
+          "isVisible": true
+        },
+        {
+          "src": "maid/clones.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "Long time favorite"
+    },
+    {
+      "id": 2901,
+      "name": "Maid Aeriy",
+      "profilePicture": "maid/maid_pfp3.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "maid/pawing.webm",
+          "isVisible": true
+        },
+        {
+          "src": "maid/clones.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "Long time favorite"
+    },
+    {
+      "id": 30,
+      "name": "JRPG Aeriy",
+      "profilePicture": "17.png",
+      "isVisible": false,
+      "videos": [
+        {
+          "src": "test.webm",
+          "isVisible": true
+        },
+        {
+          "src": "other.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+    },
+    {
+      "id": 31,
+      "name": "Aeriy Raptor (Dino)",
+      "profilePicture": "raptor/raptor_pfp.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "raptor/shuffle.webm",
+          "isVisible": true
+        },
+        {
+          "src": "raptor/hug.webm",
+          "isVisible": true
+        },
+        {
+          "src": "raptor/kiss.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "rawr"
+    },
+    {
+      "id": 32,
+      "name": "Furry",
+      "profilePicture": "17.png",
+      "isVisible": false,
+      "videos": [
+        {
+          "src": "test.webm",
+          "isVisible": true
+        },
+        {
+          "src": "other.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+    },
+    {
+      "id": 33,
+      "name": "Muppet Aeriy",
+      "profilePicture": "muppet/muppet_pfp.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "muppet/dance.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- buttons, buttons everywhere"
+    },
+    {
+      "id": 33,
+      "name": "Muppet Aeriy",
+      "profilePicture": "muppet/muppet_pfp2.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "muppet/dance.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- buttons, buttons everywhere"
+    },
+    {
+      "id": 34,
+      "name": "Fake Goth",
+      "profilePicture": "17.png",
+      "isVisible": false,
+      "videos": [
+        {
+          "src": "test.webm",
+          "isVisible": true
+        },
+        {
+          "src": "other.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+    },
+    {
+      "id": 35,
+      "name": "Butt Veil",
+      "profilePicture": "17.png",
+      "isVisible": false,
+      "videos": [
+        {
+          "src": "test.webm",
+          "isVisible": true
+        },
+        {
+          "src": "other.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+    },
+    {
+      "id": 36,
+      "name": "White Quest (Koi shirt)",
+      "profilePicture": "17.png",
+      "isVisible": false,
+      "videos": [
+        {
+          "src": "test.webm",
+          "isVisible": true
+        },
+        {
+          "src": "other.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+    },
+    {
+      "id": 37,
+      "name": "Angel",
+      "profilePicture": "17.png",
+      "isVisible": false,
+      "videos": [
+        {
+          "src": "test.webm",
+          "isVisible": true
+        },
+        {
+          "src": "other.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+    },
+    {
+      "id": 38,
+      "name": "Aeroy",
+      "profilePicture": "17.png",
+      "isVisible": false,
+      "videos": [
+        {
+          "src": "test.webm",
+          "isVisible": true
+        },
+        {
+          "src": "other.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+    },
+    {
+      "id": 39,
+      "name": "Vaporeon",
+      "profilePicture": "17.png",
+      "isVisible": false,
+      "videos": [
+        {
+          "src": "test.webm",
+          "isVisible": true
+        },
+        {
+          "src": "other.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+    },
+    {
+      "id": 40,
+      "name": "Santa Aeriy",
+      "profilePicture": "17.png",
+      "isVisible": false,
+      "videos": [
+        {
+          "src": "test.webm",
+          "isVisible": true
+        },
+        {
+          "src": "other.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+    }
+  ]
+}
