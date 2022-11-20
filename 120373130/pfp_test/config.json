@@ -28,9 +28,80 @@
       "comment": "- current champion\n- best kitten\n- best toy\n- please leave a product review"
     },
     {
+      "id": 100,
+      "name": "Cyber Rave Aeriy",
+      "profilePicture": "cyber/cyber_pfp2.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "cyber/cuddle.webm",
+          "isVisible": true
+        },
+        {
+          "src": "cyber/keys.webm",
+          "isVisible": true
+        },
+        {
+          "src": "cyber/heat.webm",
+          "isVisible": true
+        },
+        {
+          "src": "cyber/jammies.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- current champion\n- best kitten\n- best toy\n- please leave a product review"
+    },
+    {
+      "id": 101,
+      "name": "Cyber Rave Aeriy",
+      "profilePicture": "cyber/cyber_pfp3.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "cyber/cuddle.webm",
+          "isVisible": true
+        },
+        {
+          "src": "cyber/keys.webm",
+          "isVisible": true
+        },
+        {
+          "src": "cyber/heat.webm",
+          "isVisible": true
+        },
+        {
+          "src": "cyber/jammies.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- current champion\n- best kitten\n- best toy\n- please leave a product review"
+    },
+    {
       "id": 2,
       "name": "Lingeraeriy",
       "profilePicture": "lingeraeriy/lingeraeriy_pfp.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "lingeraeriy/hello.webm",
+          "isVisible": true
+        },
+        {
+          "src": "lingeraeriy/charybdis.webm",
+          "isVisible": true
+        },
+        {
+          "src": "lingeraeriy/heelheadpats.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- past cuddle champion\n- best girl"
+    },
+    {
+      "id": 20000,
+      "name": "Lingeraeriy",
+      "profilePicture": "lingeraeriy/lingeraeriy_pfp5.png",
       "isVisible": true,
       "videos": [
         {
@@ -110,6 +181,306 @@
         }
       ],
       "comment": "- past cuddle champion\n- best girl"
+    },
+    {
+      "id": 30000,
+      "name": "Goth Aeriy",
+      "profilePicture": "goth/goth_pfp4.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "goth/heart.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/highpov.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/dance.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/cuddle1.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- very touchy\n- shy dancer"
+    },
+    {
+      "id": 30001,
+      "name": "Goth Aeriy",
+      "profilePicture": "goth/goth_pfp5.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "goth/heart.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/highpov.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/dance.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/cuddle1.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- very touchy\n- shy dancer"
+    },
+    {
+      "id": 30002,
+      "name": "Goth Aeriy",
+      "profilePicture": "goth/goth_pfp6.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "goth/heart.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/highpov.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/dance.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/cuddle1.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- very touchy\n- shy dancer"
+    },
+    {
+      "id": 30003,
+      "name": "Goth Aeriy",
+      "profilePicture": "goth/goth_pfp7.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "goth/heart.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/highpov.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/dance.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/cuddle1.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- very touchy\n- shy dancer"
+    },
+    {
+      "id": 30004,
+      "name": "Goth Aeriy",
+      "profilePicture": "goth/goth_pfp8.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "goth/heart.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/highpov.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/dance.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/cuddle1.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- very touchy\n- shy dancer"
+    },
+    {
+      "id": 30005,
+      "name": "Goth Aeriy",
+      "profilePicture": "goth/goth_pfp9.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "goth/heart.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/highpov.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/dance.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/cuddle1.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- very touchy\n- shy dancer"
+    },
+    {
+      "id": 30006,
+      "name": "Goth Aeriy",
+      "profilePicture": "goth/goth_pfp10.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "goth/heart.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/highpov.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/dance.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/cuddle1.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- very touchy\n- shy dancer"
+    },
+    {
+      "id": 30007,
+      "name": "Goth Aeriy",
+      "profilePicture": "goth/goth_pfp11.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "goth/heart.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/highpov.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/dance.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/cuddle1.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- very touchy\n- shy dancer"
+    },
+    {
+      "id": 30008,
+      "name": "Goth Aeriy",
+      "profilePicture": "goth/goth_pfp12.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "goth/heart.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/highpov.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/dance.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/cuddle1.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- very touchy\n- shy dancer"
+    },
+    {
+      "id": 30009,
+      "name": "Goth Aeriy",
+      "profilePicture": "goth/goth_pfp13.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "goth/heart.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/highpov.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/dance.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/cuddle1.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- very touchy\n- shy dancer"
+    },
+    {
+      "id": 30010,
+      "name": "Goth Aeriy",
+      "profilePicture": "goth/goth_pfp14.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "goth/heart.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/highpov.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/dance.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/cuddle1.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- very touchy\n- shy dancer"
+    },
+    {
+      "id": 30011,
+      "name": "Goth Aeriy",
+      "profilePicture": "goth/goth_pfp15.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "goth/heart.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/highpov.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/dance.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/cuddle1.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- very touchy\n- shy dancer"
     },
     {
       "id": 3,
@@ -551,6 +922,43 @@
       "comment": "- tedyd\n - goth who?\n- definitely in the top 9"
     },
     {
+      "id": 80000,
+      "name": "Teddy",
+      "profilePicture": "teddy/teddy_pfp4.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "teddy/stripes.webm",
+          "isVisible": true
+        },
+        {
+          "src": "teddy/beans2.webm",
+          "isVisible": true
+        },
+        {
+          "src": "teddy/cozydance.webm",
+          "isVisible": true
+        },
+        {
+          "src": "teddy/orb.webm",
+          "isVisible": true
+        },
+        {
+          "src": "teddy/dance.webm",
+          "isVisible": true
+        },
+        {
+          "src": "teddy/kick.webm",
+          "isVisible": true
+        },
+        {
+          "src": "teddy/beans.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- tedyd\n - goth who?\n- definitely in the top 9"
+    },
+    {
       "id": 800,
       "name": "Teddy",
       "profilePicture": "teddy/teddy_pfp2.png",
@@ -637,6 +1045,69 @@
         }
       ],
       "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+    },
+    {
+      "id": 120000,
+      "name": "Delilah",
+      "profilePicture": "delilah/delilah_pfp3.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "delilah/cut.webm",
+          "isVisible": true
+        },
+        {
+          "src": "delilah/dance2.webm",
+          "isVisible": true
+        },
+        {
+          "src": "delilah/dance.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "Beards watch out!"
+    },
+    {
+      "id": 120001,
+      "name": "Delilah",
+      "profilePicture": "delilah/delilah_pfp4.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "delilah/cut.webm",
+          "isVisible": true
+        },
+        {
+          "src": "delilah/dance2.webm",
+          "isVisible": true
+        },
+        {
+          "src": "delilah/dance.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "Beards watch out!"
+    },
+    {
+      "id": 120002,
+      "name": "Delilah",
+      "profilePicture": "delilah/delilah_pfp5.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "delilah/cut.webm",
+          "isVisible": true
+        },
+        {
+          "src": "delilah/dance2.webm",
+          "isVisible": true
+        },
+        {
+          "src": "delilah/dance.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "Beards watch out!"
     },
     {
       "id": 12,
@@ -777,6 +1248,27 @@
       "id": 17,
       "name": "Professor",
       "profilePicture": "professor/professor_pfp.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "professor/lesson.webm",
+          "isVisible": true
+        },
+        {
+          "src": "professor/spin.webm",
+          "isVisible": true
+        },
+        {
+          "src": "professor/jammies.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "- rescued\n- biology, philosphy, classics, warhammer, mtg\n- you will pay attention!"
+    },
+    {
+      "id": 170000,
+      "name": "Professor",
+      "profilePicture": "professor/professor_pfp3.png",
       "isVisible": true,
       "videos": [
         {
