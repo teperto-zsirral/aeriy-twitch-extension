@@ -13,6 +13,10 @@
           "isVisible": true
         },
         {
+          "src": "cyber/headlights.webm",
+          "isVisible": true
+        },
+        {
           "src": "cyber/keys.webm",
           "isVisible": true
         },
@@ -56,6 +60,10 @@
       "videos": [
         {
           "src": "goth/heart.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/nicest.webm",
           "isVisible": true
         },
         {
