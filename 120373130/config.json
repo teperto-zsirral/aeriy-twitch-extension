@@ -53,6 +53,19 @@
       "comment": "- past cuddle champion\n- best girl"
     },
     {
+      "id": 30,
+      "name": "JRPG Aeriy",
+      "profilePicture": "jrpg/jrpg_pfp2.png",
+      "isVisible": true,
+      "videos": [
+        {
+          "src": "jrpg/twirl.webm",
+          "isVisible": true
+        }
+      ],
+      "comment": "betrayed"
+    },
+    {
       "id": 3,
       "name": "Goth Aeriy",
       "profilePicture": "goth/goth_pfp12.png",
@@ -68,6 +81,10 @@
         },
         {
           "src": "goth/highpov.webm",
+          "isVisible": true
+        },
+        {
+          "src": "goth/gothdance.webm",
           "isVisible": true
         },
         {
@@ -156,6 +173,10 @@
         },
         {
           "src": "classic/kiss.webm",
+          "isVisible": true
+        },
+        {
+          "src": "classic/fix.webm",
           "isVisible": true
         },
         {
@@ -471,6 +492,18 @@
           "isVisible": true
         },
         {
+          "src": "schoolgirl/stop.webm",
+          "isVisible": true
+        },
+        {
+          "src": "schoolgirl/mad.webm",
+          "isVisible": true
+        },
+        {
+          "src": "schoolgirl/attack.webm",
+          "isVisible": true
+        },
+        {
           "src": "schoolgirl/cute2.webm",
           "isVisible": true
         },
@@ -607,23 +640,6 @@
         }
       ],
       "comment": "Long time favorite"
-    },
-    {
-      "id": 30,
-      "name": "JRPG Aeriy",
-      "profilePicture": "17.png",
-      "isVisible": false,
-      "videos": [
-        {
-          "src": "test.webm",
-          "isVisible": true
-        },
-        {
-          "src": "other.webm",
-          "isVisible": true
-        }
-      ],
-      "comment": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
     },
     {
       "id": 31,
