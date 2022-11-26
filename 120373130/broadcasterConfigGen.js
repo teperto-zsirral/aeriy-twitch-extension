@@ -4,10 +4,16 @@ const configString = fs.readFileSync('./newConfig.json', { encoding:'utf8', flag
 
 const configObj = JSON.parse(configString);
 
+const isVisibleToIv = (isVisible) => isVisible ? 1 : 0;
+
 const broadcasterConfigObj = Object.values(configObj.avatars).map((avatar) => {
   return {
     id: avatar.id,
-    v: Object.keys(avatar.videos).map(parseFloat)
+    iv: isVisibleToIv(avatar.isVisible),
+    vs: Object.values(avatar.videos).map((video) => ({
+      id: video.id,
+      iv: isVisibleToIv(video.isVisible),
+    }))
   };
 });
 
