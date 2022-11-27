@@ -13,12 +13,12 @@ newConfigObj.avatars = oldConfigObj.avatars.map((avatar) => {
     ...avatar,
     videos: avatar.videos.reduce((acc, cur, index) => {
 
-      const id = cur.id ? cur.id : index + 1;
+      const id = parseInt(`${avatar.id}${index + 1}`);
       return {
         ...acc,
         [id]: {
-          id,
           ...cur,
+          id,
         },
       }
     }, {}),
