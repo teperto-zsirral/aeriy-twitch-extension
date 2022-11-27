@@ -920,6 +920,35 @@
         }
       },
       "comment": "- full of energy\n- shinyest eyes"
+    },
+    "4123": {
+      "id": 4123,
+      "name": "Test new avatar",
+      "profilePicture": "hailey/hailey_pfp.png",
+      "isVisible": true,
+      "videos": {
+        "411": {
+          "src": "hailey/grass.webm",
+          "isVisible": true,
+          "id": 411
+        },
+        "412": {
+          "src": "hailey/slowmo.webm",
+          "isVisible": true,
+          "id": 412
+        },
+        "413": {
+          "src": "hailey/bounce2.webm",
+          "isVisible": true,
+          "id": 413
+        },
+        "414": {
+          "src": "hailey/dance.webm",
+          "isVisible": true,
+          "id": 414
+        }
+      },
+      "comment": "- full of energy\n- shinyest eyes"
     }
   }
 }
