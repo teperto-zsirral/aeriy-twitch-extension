@@ -1,541 +1,545 @@
 {
-  "1": {
-    "id": 1,
-    "name": "Cyber Rave Aeriy",
-    "profilePicture": "cyber/cyber_pfp2.png",
-    "isVisible": true,
-    "videos": {
-      "11": {
-        "id": 11,
-        "src": "cyber/cuddle.webm",
-        "isVisible": true
+  "title": "Aeriy's avatars",
+  "baseUrl": "https://raw.githubusercontent.com/teperto-zsirral/aeriy-twitch-extension/main/120373130/",
+  "avatars": {
+    "1": {
+      "id": 1,
+      "name": "Cyber Rave Aeriy",
+      "profilePicture": "cyber/cyber_pfp2.png",
+      "isVisible": true,
+      "videos": {
+        "11": {
+          "id": 11,
+          "src": "cyber/cuddle.webm",
+          "isVisible": true
+        },
+        "12": {
+          "id": 12,
+          "src": "cyber/headlights.webm",
+          "isVisible": true
+        },
+        "13": {
+          "id": 13,
+          "src": "cyber/keys.webm",
+          "isVisible": true
+        },
+        "14": {
+          "id": 14,
+          "src": "cyber/heat.webm",
+          "isVisible": true
+        },
+        "15": {
+          "id": 15,
+          "src": "cyber/jammies.webm",
+          "isVisible": true
+        }
       },
-      "12": {
-        "id": 12,
-        "src": "cyber/headlights.webm",
-        "isVisible": true
-      },
-      "13": {
-        "id": 13,
-        "src": "cyber/keys.webm",
-        "isVisible": true
-      },
-      "14": {
-        "id": 14,
-        "src": "cyber/heat.webm",
-        "isVisible": true
-      },
-      "15": {
-        "id": 15,
-        "src": "cyber/jammies.webm",
-        "isVisible": true
-      }
+      "comment": "- current champion\n- best kitten\n- best toy\n- please leave a product review"
     },
-    "comment": "- current champion\n- best kitten\n- best toy\n- please leave a product review"
-  },
-  "2": {
-    "id": 2,
-    "name": "Lingeraeriy",
-    "profilePicture": "lingeraeriy/lingeraeriy_pfp5.png",
-    "isVisible": true,
-    "videos": {
-      "21": {
-        "id": 21,
-        "src": "lingeraeriy/hello.webm",
-        "isVisible": true
+    "2": {
+      "id": 2,
+      "name": "Lingeraeriy",
+      "profilePicture": "lingeraeriy/lingeraeriy_pfp5.png",
+      "isVisible": true,
+      "videos": {
+        "21": {
+          "id": 21,
+          "src": "lingeraeriy/hello.webm",
+          "isVisible": true
+        },
+        "22": {
+          "id": 22,
+          "src": "lingeraeriy/charybdis.webm",
+          "isVisible": true
+        },
+        "23": {
+          "id": 23,
+          "src": "lingeraeriy/heelheadpats.webm",
+          "isVisible": true
+        }
       },
-      "22": {
-        "id": 22,
-        "src": "lingeraeriy/charybdis.webm",
-        "isVisible": true
-      },
-      "23": {
-        "id": 23,
-        "src": "lingeraeriy/heelheadpats.webm",
-        "isVisible": true
-      }
+      "comment": "- past cuddle champion\n- best girl"
     },
-    "comment": "- past cuddle champion\n- best girl"
-  },
-  "3": {
-    "id": 3,
-    "name": "Goth Aeriy",
-    "profilePicture": "goth/goth_pfp12.png",
-    "isVisible": true,
-    "videos": {
-      "31": {
-        "id": 31,
-        "src": "goth/heart.webm",
-        "isVisible": true
+    "3": {
+      "id": 3,
+      "name": "Goth Aeriy",
+      "profilePicture": "goth/goth_pfp12.png",
+      "isVisible": true,
+      "videos": {
+        "31": {
+          "id": 31,
+          "src": "goth/heart.webm",
+          "isVisible": true
+        },
+        "32": {
+          "id": 32,
+          "src": "goth/nicest.webm",
+          "isVisible": true
+        },
+        "33": {
+          "id": 33,
+          "src": "goth/highpov.webm",
+          "isVisible": true
+        },
+        "34": {
+          "id": 34,
+          "src": "goth/gothdance.webm",
+          "isVisible": true
+        },
+        "35": {
+          "id": 35,
+          "src": "goth/dance.webm",
+          "isVisible": true
+        },
+        "36": {
+          "src": "goth/cuddle1.webm",
+          "isVisible": true,
+          "id": 36
+        }
       },
-      "32": {
-        "id": 32,
-        "src": "goth/nicest.webm",
-        "isVisible": true
-      },
-      "33": {
-        "id": 33,
-        "src": "goth/highpov.webm",
-        "isVisible": true
-      },
-      "34": {
-        "id": 34,
-        "src": "goth/gothdance.webm",
-        "isVisible": true
-      },
-      "35": {
-        "id": 35,
-        "src": "goth/dance.webm",
-        "isVisible": true
-      },
-      "36": {
-        "src": "goth/cuddle1.webm",
-        "isVisible": true,
-        "id": 36
-      }
+      "comment": "- very touchy\n- best cuddles\n- shy dancer"
     },
-    "comment": "- very touchy\n- best cuddles\n- shy dancer"
-  },
-  "4": {
-    "id": 4,
-    "name": "Huntress",
-    "profilePicture": "huntress/huntress_pfp.png",
-    "isVisible": true,
-    "videos": {
-      "41": {
-        "src": "huntress/punish.webm",
-        "isVisible": true,
-        "id": 41
+    "4": {
+      "id": 4,
+      "name": "Huntress",
+      "profilePicture": "huntress/huntress_pfp.png",
+      "isVisible": true,
+      "videos": {
+        "41": {
+          "src": "huntress/punish.webm",
+          "isVisible": true,
+          "id": 41
+        },
+        "42": {
+          "src": "huntress/heels.webm",
+          "isVisible": true,
+          "id": 42
+        }
       },
-      "42": {
-        "src": "huntress/heels.webm",
-        "isVisible": true,
-        "id": 42
-      }
+      "comment": "Perfect aim"
     },
-    "comment": "Perfect aim"
-  },
-  "5": {
-    "id": 5,
-    "name": "Puppaeriy",
-    "profilePicture": "puppaeriy/puppaeriy_pfp3.png",
-    "isVisible": true,
-    "videos": {
-      "51": {
-        "src": "puppaeriy/toofar.webm",
-        "isVisible": true,
-        "id": 51
+    "5": {
+      "id": 5,
+      "name": "Puppaeriy",
+      "profilePicture": "puppaeriy/puppaeriy_pfp3.png",
+      "isVisible": true,
+      "videos": {
+        "51": {
+          "src": "puppaeriy/toofar.webm",
+          "isVisible": true,
+          "id": 51
+        },
+        "52": {
+          "src": "puppaeriy/moldy.webm",
+          "isVisible": true,
+          "id": 52
+        }
       },
-      "52": {
-        "src": "puppaeriy/moldy.webm",
-        "isVisible": true,
-        "id": 52
-      }
+      "comment": "- favorite?\n- wholesome\n- she's a pup, she's cat, she's a pupcat"
     },
-    "comment": "- favorite?\n- wholesome\n- she's a pup, she's cat, she's a pupcat"
-  },
-  "6": {
-    "id": 6,
-    "name": "Classic Aeriy",
-    "profilePicture": "classic/classic_pfp.png",
-    "isVisible": true,
-    "videos": {
-      "61": {
-        "src": "classic/wave.webm",
-        "isVisible": true,
-        "id": 61
+    "6": {
+      "id": 6,
+      "name": "Classic Aeriy",
+      "profilePicture": "classic/classic_pfp.png",
+      "isVisible": true,
+      "videos": {
+        "61": {
+          "src": "classic/wave.webm",
+          "isVisible": true,
+          "id": 61
+        },
+        "62": {
+          "src": "classic/beach.webm",
+          "isVisible": true,
+          "id": 62
+        },
+        "63": {
+          "src": "classic/kiss.webm",
+          "isVisible": true,
+          "id": 63
+        },
+        "64": {
+          "src": "classic/fix.webm",
+          "isVisible": true,
+          "id": 64
+        },
+        "65": {
+          "src": "classic/molt.webm",
+          "isVisible": true,
+          "id": 65
+        }
       },
-      "62": {
-        "src": "classic/beach.webm",
-        "isVisible": true,
-        "id": 62
-      },
-      "63": {
-        "src": "classic/kiss.webm",
-        "isVisible": true,
-        "id": 63
-      },
-      "64": {
-        "src": "classic/fix.webm",
-        "isVisible": true,
-        "id": 64
-      },
-      "65": {
-        "src": "classic/molt.webm",
-        "isVisible": true,
-        "id": 65
-      }
+      "comment": "- the original\n- OSC available"
     },
-    "comment": "- the original\n- OSC available"
-  },
-  "7": {
-    "id": 7,
-    "name": "Ringmistress",
-    "profilePicture": "ringmistress/ringmistress_pfp.png",
-    "isVisible": true,
-    "videos": {
-      "71": {
-        "src": "ringmistress/colorchange.webm",
-        "isVisible": true,
-        "id": 71
+    "7": {
+      "id": 7,
+      "name": "Ringmistress",
+      "profilePicture": "ringmistress/ringmistress_pfp.png",
+      "isVisible": true,
+      "videos": {
+        "71": {
+          "src": "ringmistress/colorchange.webm",
+          "isVisible": true,
+          "id": 71
+        },
+        "72": {
+          "src": "ringmistress/hat.webm",
+          "isVisible": true,
+          "id": 72
+        },
+        "73": {
+          "src": "ringmistress/eat.webm",
+          "isVisible": true,
+          "id": 73
+        }
       },
-      "72": {
-        "src": "ringmistress/hat.webm",
-        "isVisible": true,
-        "id": 72
-      },
-      "73": {
-        "src": "ringmistress/eat.webm",
-        "isVisible": true,
-        "id": 73
-      }
+      "comment": "- holds the greates shows"
     },
-    "comment": "- holds the greates shows"
-  },
-  "8": {
-    "id": 8,
-    "name": "Teddy",
-    "profilePicture": "teddy/teddy_pfp3.png",
-    "isVisible": true,
-    "videos": {
-      "81": {
-        "src": "teddy/stripes.webm",
-        "isVisible": true,
-        "id": 81
+    "8": {
+      "id": 8,
+      "name": "Teddy",
+      "profilePicture": "teddy/teddy_pfp3.png",
+      "isVisible": true,
+      "videos": {
+        "81": {
+          "src": "teddy/stripes.webm",
+          "isVisible": true,
+          "id": 81
+        },
+        "82": {
+          "src": "teddy/beans2.webm",
+          "isVisible": true,
+          "id": 82
+        },
+        "83": {
+          "src": "teddy/cozydance.webm",
+          "isVisible": true,
+          "id": 83
+        },
+        "84": {
+          "src": "teddy/orb.webm",
+          "isVisible": true,
+          "id": 84
+        },
+        "85": {
+          "src": "teddy/dance.webm",
+          "isVisible": true,
+          "id": 85
+        },
+        "86": {
+          "src": "teddy/kick.webm",
+          "isVisible": true,
+          "id": 86
+        },
+        "87": {
+          "src": "teddy/beans.webm",
+          "isVisible": true,
+          "id": 87
+        }
       },
-      "82": {
-        "src": "teddy/beans2.webm",
-        "isVisible": true,
-        "id": 82
-      },
-      "83": {
-        "src": "teddy/cozydance.webm",
-        "isVisible": true,
-        "id": 83
-      },
-      "84": {
-        "src": "teddy/orb.webm",
-        "isVisible": true,
-        "id": 84
-      },
-      "85": {
-        "src": "teddy/dance.webm",
-        "isVisible": true,
-        "id": 85
-      },
-      "86": {
-        "src": "teddy/kick.webm",
-        "isVisible": true,
-        "id": 86
-      },
-      "87": {
-        "src": "teddy/beans.webm",
-        "isVisible": true,
-        "id": 87
-      }
+      "comment": "- tedyd\n - goth who?\n- next gen teddy bear"
     },
-    "comment": "- tedyd\n - goth who?\n- next gen teddy bear"
-  },
-  "10": {
-    "id": 10,
-    "name": "Belle",
-    "profilePicture": "belle/belle_pfp.png",
-    "isVisible": true,
-    "videos": {
-      "101": {
-        "src": "belle/introduction.webm",
-        "isVisible": true,
-        "id": 101
+    "10": {
+      "id": 10,
+      "name": "Belle",
+      "profilePicture": "belle/belle_pfp.png",
+      "isVisible": true,
+      "videos": {
+        "101": {
+          "src": "belle/introduction.webm",
+          "isVisible": true,
+          "id": 101
+        },
+        "102": {
+          "src": "belle/dance.webm",
+          "isVisible": true,
+          "id": 102
+        }
       },
-      "102": {
-        "src": "belle/dance.webm",
-        "isVisible": true,
-        "id": 102
-      }
+      "comment": "- Mooo\n- What's the first thing that comes to mind about cows? ... Is it milk? >: Not again!"
     },
-    "comment": "- Mooo\n- What's the first thing that comes to mind about cows? ... Is it milk? >: Not again!"
-  },
-  "12": {
-    "id": 12,
-    "name": "Delilah",
-    "profilePicture": "delilah/delilah_pfp3.png",
-    "isVisible": true,
-    "videos": {
-      "121": {
-        "src": "delilah/cut.webm",
-        "isVisible": true,
-        "id": 121
+    "12": {
+      "id": 12,
+      "name": "Delilah",
+      "profilePicture": "delilah/delilah_pfp3.png",
+      "isVisible": true,
+      "videos": {
+        "121": {
+          "src": "delilah/cut.webm",
+          "isVisible": true,
+          "id": 121
+        },
+        "122": {
+          "src": "delilah/dance2.webm",
+          "isVisible": true,
+          "id": 122
+        },
+        "123": {
+          "src": "delilah/dance.webm",
+          "isVisible": true,
+          "id": 123
+        }
       },
-      "122": {
-        "src": "delilah/dance2.webm",
-        "isVisible": true,
-        "id": 122
-      },
-      "123": {
-        "src": "delilah/dance.webm",
-        "isVisible": true,
-        "id": 123
-      }
+      "comment": "Beards watch out!"
     },
-    "comment": "Beards watch out!"
-  },
-  "13": {
-    "id": 13,
-    "name": "Smolder",
-    "profilePicture": "smolder/smolder_pfp2.png",
-    "isVisible": true,
-    "videos": {
-      "131": {
-        "src": "smolder/dance.webm",
-        "isVisible": true,
-        "id": 131
+    "13": {
+      "id": 13,
+      "name": "Smolder",
+      "profilePicture": "smolder/smolder_pfp2.png",
+      "isVisible": true,
+      "videos": {
+        "131": {
+          "src": "smolder/dance.webm",
+          "isVisible": true,
+          "id": 131
+        },
+        "132": {
+          "src": "smolder/glow.webm",
+          "isVisible": true,
+          "id": 132
+        },
+        "133": {
+          "src": "smolder/lick.webm",
+          "isVisible": true,
+          "id": 133
+        }
       },
-      "132": {
-        "src": "smolder/glow.webm",
-        "isVisible": true,
-        "id": 132
-      },
-      "133": {
-        "src": "smolder/lick.webm",
-        "isVisible": true,
-        "id": 133
-      }
+      "comment": "Buh... guh..."
     },
-    "comment": "Buh... guh..."
-  },
-  "17": {
-    "id": 17,
-    "name": "Professor",
-    "profilePicture": "professor/professor_pfp3.png",
-    "isVisible": true,
-    "videos": {
-      "171": {
-        "src": "professor/lesson.webm",
-        "isVisible": true,
-        "id": 171
+    "17": {
+      "id": 17,
+      "name": "Professor",
+      "profilePicture": "professor/professor_pfp3.png",
+      "isVisible": true,
+      "videos": {
+        "171": {
+          "src": "professor/lesson.webm",
+          "isVisible": true,
+          "id": 171
+        },
+        "172": {
+          "src": "professor/spin.webm",
+          "isVisible": true,
+          "id": 172
+        },
+        "173": {
+          "src": "professor/jammies.webm",
+          "isVisible": true,
+          "id": 173
+        }
       },
-      "172": {
-        "src": "professor/spin.webm",
-        "isVisible": true,
-        "id": 172
-      },
-      "173": {
-        "src": "professor/jammies.webm",
-        "isVisible": true,
-        "id": 173
-      }
+      "comment": "- rescued\n- biology, philosphy, classics, warhammer, mtg\n- you will pay attention!"
     },
-    "comment": "- rescued\n- biology, philosphy, classics, warhammer, mtg\n- you will pay attention!"
-  },
-  "18": {
-    "id": 18,
-    "name": "Gucci Aeriy",
-    "profilePicture": "gucci/gucci_pfp2.png",
-    "isVisible": true,
-    "videos": {
-      "181": {
-        "src": "gucci/invis.webm",
-        "isVisible": true,
-        "id": 181
+    "18": {
+      "id": 18,
+      "name": "Gucci Aeriy",
+      "profilePicture": "gucci/gucci_pfp2.png",
+      "isVisible": true,
+      "videos": {
+        "181": {
+          "src": "gucci/invis.webm",
+          "isVisible": true,
+          "id": 181
+        },
+        "182": {
+          "src": "gucci/fluffy.webm",
+          "isVisible": true,
+          "id": 182
+        },
+        "183": {
+          "src": "gucci/goodgirl.webm",
+          "isVisible": true,
+          "id": 183
+        }
       },
-      "182": {
-        "src": "gucci/fluffy.webm",
-        "isVisible": true,
-        "id": 182
-      },
-      "183": {
-        "src": "gucci/goodgirl.webm",
-        "isVisible": true,
-        "id": 183
-      }
+      "comment": "- resident irl clubber"
     },
-    "comment": "- resident irl clubber"
-  },
-  "22": {
-    "id": 22,
-    "name": "Schoolgirl Aeriy",
-    "profilePicture": "schoolgirl/schoolgirl_pfp.png",
-    "isVisible": true,
-    "videos": {
-      "221": {
-        "src": "schoolgirl/pat.webm",
-        "isVisible": true,
-        "id": 221
+    "22": {
+      "id": 22,
+      "name": "Schoolgirl Aeriy",
+      "profilePicture": "schoolgirl/schoolgirl_pfp.png",
+      "isVisible": true,
+      "videos": {
+        "221": {
+          "src": "schoolgirl/pat.webm",
+          "isVisible": true,
+          "id": 221
+        },
+        "222": {
+          "src": "schoolgirl/stop.webm",
+          "isVisible": true,
+          "id": 222
+        },
+        "223": {
+          "src": "schoolgirl/mad.webm",
+          "isVisible": true,
+          "id": 223
+        },
+        "224": {
+          "src": "schoolgirl/attack.webm",
+          "isVisible": true,
+          "id": 224
+        },
+        "225": {
+          "src": "schoolgirl/cute2.webm",
+          "isVisible": true,
+          "id": 225
+        },
+        "226": {
+          "src": "schoolgirl/cute.webm",
+          "isVisible": true,
+          "id": 226
+        }
       },
-      "222": {
-        "src": "schoolgirl/stop.webm",
-        "isVisible": true,
-        "id": 222
-      },
-      "223": {
-        "src": "schoolgirl/mad.webm",
-        "isVisible": true,
-        "id": 223
-      },
-      "224": {
-        "src": "schoolgirl/attack.webm",
-        "isVisible": true,
-        "id": 224
-      },
-      "225": {
-        "src": "schoolgirl/cute2.webm",
-        "isVisible": true,
-        "id": 225
-      },
-      "226": {
-        "src": "schoolgirl/cute.webm",
-        "isVisible": true,
-        "id": 226
-      }
+      "comment": ""
     },
-    "comment": ""
-  },
-  "23": {
-    "id": 23,
-    "name": "Raptor Aeriy",
-    "profilePicture": "raptaeriy/raptaeriy_pfp.png",
-    "isVisible": true,
-    "videos": {
-      "231": {
-        "src": "raptaeriy/mask.webm",
-        "isVisible": true,
-        "id": 231
+    "23": {
+      "id": 23,
+      "name": "Raptor Aeriy",
+      "profilePicture": "raptaeriy/raptaeriy_pfp.png",
+      "isVisible": true,
+      "videos": {
+        "231": {
+          "src": "raptaeriy/mask.webm",
+          "isVisible": true,
+          "id": 231
+        },
+        "232": {
+          "src": "raptaeriy/jump.webm",
+          "isVisible": true,
+          "id": 232
+        }
       },
-      "232": {
-        "src": "raptaeriy/jump.webm",
-        "isVisible": true,
-        "id": 232
-      }
+      "comment": "Best legs"
     },
-    "comment": "Best legs"
-  },
-  "25": {
-    "id": 25,
-    "name": "Nurse Aeriy",
-    "profilePicture": "nurse/nurse_pfp2.png",
-    "isVisible": true,
-    "videos": {
-      "251": {
-        "src": "nurse/finger.webm",
-        "isVisible": true,
-        "id": 251
+    "25": {
+      "id": 25,
+      "name": "Nurse Aeriy",
+      "profilePicture": "nurse/nurse_pfp2.png",
+      "isVisible": true,
+      "videos": {
+        "251": {
+          "src": "nurse/finger.webm",
+          "isVisible": true,
+          "id": 251
+        },
+        "252": {
+          "src": "nurse/injection.webm",
+          "isVisible": true,
+          "id": 252
+        },
+        "253": {
+          "src": "nurse/spin.webm",
+          "isVisible": true,
+          "id": 253
+        },
+        "254": {
+          "src": "nurse/headbang.webm",
+          "isVisible": true,
+          "id": 254
+        }
       },
-      "252": {
-        "src": "nurse/injection.webm",
-        "isVisible": true,
-        "id": 252
-      },
-      "253": {
-        "src": "nurse/spin.webm",
-        "isVisible": true,
-        "id": 253
-      },
-      "254": {
-        "src": "nurse/headbang.webm",
-        "isVisible": true,
-        "id": 254
-      }
+      "comment": "Afraid of needles"
     },
-    "comment": "Afraid of needles"
-  },
-  "29": {
-    "id": 29,
-    "name": "Maid Aeriy",
-    "profilePicture": "maid/maid_pfp3.png",
-    "isVisible": true,
-    "videos": {
-      "291": {
-        "src": "maid/pawing.webm",
-        "isVisible": true,
-        "id": 291
+    "29": {
+      "id": 29,
+      "name": "Maid Aeriy",
+      "profilePicture": "maid/maid_pfp3.png",
+      "isVisible": true,
+      "videos": {
+        "291": {
+          "src": "maid/pawing.webm",
+          "isVisible": true,
+          "id": 291
+        },
+        "292": {
+          "src": "maid/clones.webm",
+          "isVisible": true,
+          "id": 292
+        }
       },
-      "292": {
-        "src": "maid/clones.webm",
-        "isVisible": true,
-        "id": 292
-      }
+      "comment": "- Long time favorite\n- How many maids fit in Aeriy's bedroom?"
     },
-    "comment": "- Long time favorite\n- How many maids fit in Aeriy's bedroom?"
-  },
-  "30": {
-    "id": 30,
-    "name": "JRPG Aeriy",
-    "profilePicture": "jrpg/jrpg_pfp2.png",
-    "isVisible": true,
-    "videos": {
-      "301": {
-        "id": 301,
-        "src": "jrpg/twirl.webm",
-        "isVisible": true
-      }
+    "30": {
+      "id": 30,
+      "name": "JRPG Aeriy",
+      "profilePicture": "jrpg/jrpg_pfp2.png",
+      "isVisible": true,
+      "videos": {
+        "301": {
+          "id": 301,
+          "src": "jrpg/twirl.webm",
+          "isVisible": true
+        }
+      },
+      "comment": "betrayed"
     },
-    "comment": "betrayed"
-  },
-  "31": {
-    "id": 31,
-    "name": "Aeriy Raptor (Dino)",
-    "profilePicture": "raptor/raptor_pfp.png",
-    "isVisible": true,
-    "videos": {
-      "311": {
-        "src": "raptor/shuffle.webm",
-        "isVisible": true,
-        "id": 311
+    "31": {
+      "id": 31,
+      "name": "Aeriy Raptor (Dino)",
+      "profilePicture": "raptor/raptor_pfp.png",
+      "isVisible": true,
+      "videos": {
+        "311": {
+          "src": "raptor/shuffle.webm",
+          "isVisible": true,
+          "id": 311
+        },
+        "312": {
+          "src": "raptor/hug.webm",
+          "isVisible": true,
+          "id": 312
+        },
+        "313": {
+          "src": "raptor/kiss.webm",
+          "isVisible": true,
+          "id": 313
+        }
       },
-      "312": {
-        "src": "raptor/hug.webm",
-        "isVisible": true,
-        "id": 312
-      },
-      "313": {
-        "src": "raptor/kiss.webm",
-        "isVisible": true,
-        "id": 313
-      }
+      "comment": "rawr"
     },
-    "comment": "rawr"
-  },
-  "33": {
-    "id": 33,
-    "name": "Muppet Aeriy",
-    "profilePicture": "muppet/muppet_pfp2.png",
-    "isVisible": true,
-    "videos": {
-      "331": {
-        "src": "muppet/dance.webm",
-        "isVisible": true,
-        "id": 331
-      }
+    "33": {
+      "id": 33,
+      "name": "Muppet Aeriy",
+      "profilePicture": "muppet/muppet_pfp2.png",
+      "isVisible": true,
+      "videos": {
+        "331": {
+          "src": "muppet/dance.webm",
+          "isVisible": true,
+          "id": 331
+        }
+      },
+      "comment": "- buttons, buttons everywhere"
     },
-    "comment": "- buttons, buttons everywhere"
-  },
-  "41": {
-    "id": 41,
-    "name": "Hailey",
-    "profilePicture": "hailey/hailey_pfp.png",
-    "isVisible": true,
-    "videos": {
-      "411": {
-        "src": "hailey/grass.webm",
-        "isVisible": true,
-        "id": 411
+    "41": {
+      "id": 41,
+      "name": "Hailey",
+      "profilePicture": "hailey/hailey_pfp.png",
+      "isVisible": true,
+      "videos": {
+        "411": {
+          "src": "hailey/grass.webm",
+          "isVisible": true,
+          "id": 411
+        },
+        "412": {
+          "src": "hailey/slowmo.webm",
+          "isVisible": true,
+          "id": 412
+        },
+        "413": {
+          "src": "hailey/bounce2.webm",
+          "isVisible": true,
+          "id": 413
+        },
+        "414": {
+          "src": "hailey/dance.webm",
+          "isVisible": true,
+          "id": 414
+        }
       },
-      "412": {
-        "src": "hailey/slowmo.webm",
-        "isVisible": true,
-        "id": 412
-      },
-      "413": {
-        "src": "hailey/bounce2.webm",
-        "isVisible": true,
-        "id": 413
-      },
-      "414": {
-        "src": "hailey/dance.webm",
-        "isVisible": true,
-        "id": 414
-      }
-    },
-    "comment": "- full of energy\n- shinyest eyes"
+      "comment": "- full of energy\n- shinyest eyes"
+    }
   }
 }

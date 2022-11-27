@@ -4,14 +4,17 @@ const configString = fs.readFileSync('./newConfig.json', { encoding:'utf8', flag
 
 const configObj = JSON.parse(configString);
 
-const isVisibleToIv = (isVisible) => isVisible ? 1 : 0;
-
-const broadcasterConfigObj = Object.values(configObj.avatars).filter(({ isVisible }) => isVisible).reduce((acc, cur) => {
+const visibleAvatars = Object.values(configObj.avatars).filter(({ isVisible }) => isVisible).reduce((acc, cur) => {
   return {
     ...acc,
     [cur.id]: cur,
   }
 }, {});
+
+const broadcasterConfigObj = {
+  ...configObj,
+  avatars: visibleAvatars,
+};
 
 
 fs.writeFileSync('./withoutUnusedConfig.json', JSON.stringify(broadcasterConfigObj, null, 2), {
